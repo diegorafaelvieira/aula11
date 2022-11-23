@@ -1,5 +1,4 @@
 Sou um arquivo de texto.
 
 Primeira modificação.
-
 Eu estou na ramificação main .
